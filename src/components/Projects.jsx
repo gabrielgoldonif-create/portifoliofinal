@@ -76,12 +76,12 @@ export default function Projects() {
 
         <Grid>
           <Card
-            href="https://github.com/gabrielgoldonif-create/barbearia"
+            href="https://gabrielgoldonif-create.github.io/equimapepromo/"
             target="_blank"
           >
-            <h3>Site Barbearia</h3>
-            <p>Landing page moderna com layout responsivo.</p>
-            <small>HTML • CSS • JavaScript</small>
+            <h3>Catálogo de Produtos</h3>
+            <p>Sistema de pedidos via whatsapp em aplicação simple.</p>
+            <small>React • CSS • JavaScript</small>
           </Card>
 
           <Card
